@@ -1,0 +1,14 @@
+            Welcome to DesignAndCodeWithArun
+
+Design a use cases of shopping cart service to enforce rule on the orders.
+Rules:
+1. If it is a Diwali time(assume Diwali time is Novemeber month) then we can apply rule below:
+   1. if cart value is greater than 5000
+        then
+            instant discount 10%
+2. If it is a dussehra time(Septmber) then :
+    2. if cart value is greater than 2000 and all are grocery items
+        then
+            instant 20% discount
+            free 1kg sugar
+

@@ -1,0 +1,6 @@
+            Welcome to DesignAndCodeWithArun
+
+ATM Dispenser Implementation using Chain of Responsibility Principle
+1. Customer will input the amount multiple of 10
+2. Machine has 4 types of Currency notes, 500, 100, 50 and 10
+3. Based on input amount customer can receive different count of notes.
