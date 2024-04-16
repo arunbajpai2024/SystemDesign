@@ -1,0 +1,7 @@
+        Welcome to DesignAndCodeWithArun
+
+A Notification service that sends different types of messages(text, QR, video etc..) via different ways (email, slack etc...)
+
+There are N types of messages and M - ways to sends a message
+One possibility: subclassing -> SlackText, SlackQrCode etc --> N X M classes
+Second possibility: Bridge Design Pattern
